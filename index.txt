@@ -1,1 +1,4 @@
-nana
+RENCANA WEB KASIR 
+- membuat menu utama
+- membuat menu login 
+
