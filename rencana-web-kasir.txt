@@ -1,5 +1,23 @@
 RENCANA WEB KASIR 
 - membuat menu utama
+
+
+Profil Koperasi
+Koperasi adalah badan usaha yang beranggotakan sekelompok orang yang memiliki tujuan bersama untuk meningkatkan kesejahteraan ekonomi anggotanya. Koperasi menjalankan prinsip-prinsip demokrasi, solidaritas, dan keadilan dengan mengutamakan kepentingan bersama. Koperasi bergerak di berbagai sektor seperti simpan pinjam, produksi, distribusi, dan pemasaran produk atau jasa dengan semangat kebersamaan dan kekeluargaan.
+
+Visi
+Menjadi koperasi yang unggul dan terpercaya, berkontribusi terhadap peningkatan kesejahteraan anggota, serta mengembangkan ekonomi kerakyatan yang berkelanjutan.
+
+Misi
+1. **Meningkatkan Kesejahteraan Anggota:** Memberikan layanan terbaik dalam memenuhi kebutuhan ekonomi anggota, baik dalam hal simpan pinjam, konsumsi, maupun jasa lainnya.
+2. **Pengembangan Usaha yang Berkelanjutan:** Menciptakan usaha yang produktif dan efisien untuk mencapai keuntungan yang dapat dimanfaatkan bagi kesejahteraan anggota dan masyarakat.
+3. **Mendorong Pendidikan dan Pelatihan Anggota:** Memberikan pembekalan pengetahuan dan keterampilan kepada anggota agar lebih mandiri dalam pengelolaan usaha dan keuangan.
+4. **Mengutamakan Prinsip Keadilan dan Solidaritas:** Melaksanakan prinsip-prinsip koperasi dalam setiap aspek kegiatan untuk membangun hubungan yang saling menguntungkan bagi anggota.
+5. **Meningkatkan Kepedulian Sosial:** Berperan aktif dalam kegiatan sosial kemasyarakatan dan pengembangan lingkungan sekitar.
+
+alamat koperasi
+smk n 1 bukateja
+
 - membuat menu login 
 - membuat menu sign-up 
 - membuat daftar harga barang 
