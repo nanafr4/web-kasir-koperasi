@@ -1,7 +1,5 @@
 RENCANA WEB KASIR 
 - membuat menu utama
-
-
 Profil Koperasi
 Koperasi adalah badan usaha yang beranggotakan sekelompok orang yang memiliki tujuan bersama untuk meningkatkan kesejahteraan ekonomi anggotanya. Koperasi menjalankan prinsip-prinsip demokrasi, solidaritas, dan keadilan dengan mengutamakan kepentingan bersama. Koperasi bergerak di berbagai sektor seperti simpan pinjam, produksi, distribusi, dan pemasaran produk atau jasa dengan semangat kebersamaan dan kekeluargaan.
 
